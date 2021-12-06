@@ -1,0 +1,18 @@
+.Detail-image-container {
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: 1em;
+	text-align: center;
+}
+
+.Detail-info-container {
+	margin-left: 1em;
+	margin-right: 1em;
+
+}
+
+.Detail-main-container {
+  width: 400px;
+  min-height: 600px;
+}
+
